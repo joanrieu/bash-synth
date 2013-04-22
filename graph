@@ -1,0 +1,8 @@
+LFOSaw saw
+LFOSawToTriangle tri
+OutputBinary out
+
+saw sample_rate = 44100
+saw frequency = 110
+saw amplitude > tri saw
+tri amplitude > out value

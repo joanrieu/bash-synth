@@ -1,0 +1,3 @@
+i value
+
+std::cout << value << std::endl;

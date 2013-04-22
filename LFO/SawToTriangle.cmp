@@ -1,0 +1,4 @@
+i saw
+o amplitude
+
+amplitude = abs(saw) * 2 - 1;

@@ -1,0 +1,7 @@
+i sample_rate
+i frequency
+o amplitude
+
+amplitude += 2 * frequency / sample_rate;
+if (amplitude >= 1)
+        amplitude -= 2;
